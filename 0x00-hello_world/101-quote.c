@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <unistd.h>
 
 /**
  * main - Entry point
@@ -9,6 +9,6 @@ int main(void)
 {
 	char str1[] = "and that piece is art is useful\" - Dora Korpar, 2015-10-19\n";
         
-	write(2, str1, 50);
+	write(2, str1, 59);
 	return (1);
 }

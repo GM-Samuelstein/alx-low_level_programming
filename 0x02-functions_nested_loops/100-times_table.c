@@ -1,8 +1,11 @@
-#include "school.h"
+#include "main.h"
 
-/*
+/**
+ * print_times_table - Prints the`n` times table, starting with 0.
  *
+ * @n: Input integer number.
  *
+ * Return: n-times table if 0 < n < 15. Noting if otherwise.
  */
 
 void print_times_table(int n)

@@ -1,8 +1,10 @@
-#include "school.h"
+#include "main.h"
 
 /**
+ * jack_bauer - Prints every minute of the day of Jack Bauer,
+ * starting from 00:00 to 23:59.
  *
- *
+ * Return: Always 0 (Success)
  */
 
 void jack_bauer(void)
@@ -17,7 +19,7 @@ void jack_bauer(void)
 			{
 				for (d = 48; d <= 57; d++)
 				{
-					if (a >= 50; && b >= 52)
+					if (a >= 50 && b >= 52)
 					{
 						break;
 					}

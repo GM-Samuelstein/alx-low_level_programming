@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - iad
+ * main - Finds and prints the first 98 fibonacci numbers,
+ * starting with '1' and '2', followed by a new line.
  *
  * Return: Always 0 (Success)
  */
@@ -10,7 +11,7 @@ int main(void)
 {
 	int a, b, c;
 	long int u, v, w, x, y, z;
-	
+
 	u = 1;
 	v = 2;
 	b = c = 1;
@@ -44,10 +45,8 @@ int main(void)
 			z = (x % 1000000000);
 		}
 		if (((u + v) < 0) && b == 1)
-		{
 			b = 0;
-		}
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
-}	
+}

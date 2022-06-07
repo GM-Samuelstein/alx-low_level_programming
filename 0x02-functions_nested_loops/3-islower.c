@@ -1,9 +1,11 @@
-#include "school.h"
+#include "main.h"
 
 /**
- * main -
+ * _islower - Checks for lowercase character.
  *
+ * @c: ASCII character.
  *
+ * Return: 1 If c is lowercase. 0 if otherwise.
  */
 
 int _islower(int c)

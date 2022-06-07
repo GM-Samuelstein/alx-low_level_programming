@@ -1,7 +1,8 @@
 #include <studio.h>
 
 /**
- * main - nwef
+ * main - Finds and prints the sum of the even-valued terms,
+ * in the fibonacci sequence, followed by a new line.
  *
  * Return: Always (0) Success.
  */

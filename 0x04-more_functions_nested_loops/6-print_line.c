@@ -6,7 +6,7 @@
  * Return: Always 0 (success).
  */
 
-void print_line(void)
+void print_line(int n)
 {
 	int i;
 

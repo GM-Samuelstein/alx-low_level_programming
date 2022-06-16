@@ -2,7 +2,7 @@
 
 /**
  * reverse_array - Reverses the content of an array of integers.
- * @array: Input array.
+ * @a: Input array.
  * @n: Number of elements in the array.
  * Return: No return.
  */

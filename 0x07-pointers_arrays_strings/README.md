@@ -19,3 +19,4 @@
 |[**8-print_diagsums.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/8-print_diagsums.c)|*This function prints the sum of the two diagonals of a square matrix of integers.*|
 |[**100-set_string.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/100-set_string.c)|*This function sets the value of a pointer to a char.*|
 |[**101-crackme_password**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/101-crackme_password)|*This file contains the password for the [crackme2](https://github.com/holbertonschool/0x06.c) executable.*|
+|[**main.h**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/main.h)|*A header file, containing prototypes of all functions used and the prototype of the function `_putchar`.*|

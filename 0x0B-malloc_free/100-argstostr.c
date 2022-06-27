@@ -12,9 +12,7 @@ char *argstostr(int ac, char **av)
 	int i, j, x, y;
 
 	if (ac == 0)
-	{
 		return (NULL);
-	}
 
 	for (x = i = 0; i < ac; i++)
 	{
@@ -22,9 +20,7 @@ char *argstostr(int ac, char **av)
 			return (NULL);
 
 		for (j = 0; av[i][j] != '\0'; j++)
-		{
 			x++;
-		}
 		x++;
 	}
 
@@ -46,9 +42,7 @@ char *argstostr(int ac, char **av)
 			j = 0;
 		}
 		if (y < x - 1)
-		{
 			a[y] = av[i][j];
-		}
 	}
 	a[y] = '\0';
 

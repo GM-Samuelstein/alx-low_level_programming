@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * free_grid - frees a 2 dimensional grid.
+ * ch_free_grid - frees a 2 dimensional grid.
  * @grid: the two dimensional grid.
  * @height: height of the grid.
  * Return: no return.

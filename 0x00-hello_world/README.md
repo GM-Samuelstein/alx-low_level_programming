@@ -35,7 +35,7 @@
 |[**3-name**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/3-name)|*This Shell Script compiles a C file that is saved in the variable named `$CFILE`. The output file is an executable file named `cisfun`.*|
 |[**4-puts.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)|*This C file is a program that prints exactly `"programming is like building a multilingual puzzle`, followed by a new line, using the `puts` function, and not the `printf` function. The program ends with a return value of `0`.*|
 |[**5-printf.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c)||
-|[**6-size.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)||
+|[**6-size.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)|*This C file is a program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line, using the `printf` function, and not the `puts` function. The program ends with a return value of `0`.*|
 |[**100-intel**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)||
 |[**101-quote.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c)||
 

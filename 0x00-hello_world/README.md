@@ -3,6 +3,19 @@
 <h2>Learning Objectives</h2>
 <ul>
 <li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+
+<li></li>
+
+<li></li>
+
+<li></li>
+
+<li></li>
 </ul>
 
 |File name|Description|

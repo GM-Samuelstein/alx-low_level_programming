@@ -2,7 +2,7 @@
 
 <h2>Learning Objectives</h2>
 <ul>
-<li></li>
+<li>Why C programming is awesome.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -21,7 +21,7 @@
 |File name|Description|
 |---|---|
 |[**0-preprocessor**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)|*This shell script runs a C file that is saved in the variable named `$CFILE` through the preprocessor, and saves the result into another file named `c`.*|
-|[**1-compiler**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)||
+|[**1-compiler**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)|*This shell script compiles a C file that is saved in the variable named `$CFILE`, but does not link. The output file is named the same as the C file, but with the extension `.o` instead of `.c`.*|
 |[**2-assembler**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler)||
 |[**3-name**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/3-name)||
 |[**4-puts.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)||

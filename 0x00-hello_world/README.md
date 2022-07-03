@@ -7,7 +7,7 @@
 
 |File name|Description|
 |---|---|
-|[**0-preprocessor**]()||
+|[**0-preprocessor**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)||
 |[**1-compiler**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)||
 |[**2-assembler**]()||
 |[**3-name**]()||

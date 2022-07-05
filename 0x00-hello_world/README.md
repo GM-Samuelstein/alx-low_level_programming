@@ -15,16 +15,6 @@
 <li>What is the official C coding style and how to check your code with <code>betty-style</code>.</li>
 <li>How to find the right header to include in your source code when using a standard library function.</li>
 <li>How does the <code>main</code> function influence the return value of the program </li>
-
-
-
-
-
-
-
-
-
-
 </ul>
 
 |File name|Description|
@@ -38,4 +28,3 @@
 |[**6-size.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)|*This C file is a program that prints the size of various data types, on the computer it is compiled and run on. The program ends with a return value of `0`.*|
 |[**100-intel**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)|*This Shell Script generates the assembly code (Intel syntax) of a C file that is saved in the variable named `$CFILE`. The output file is named the same as the C file, but with the extension `.s` instead of `.c`.*|
 |[**101-quote.c**](https://github.com/GM-Samuelstein/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c)|*This C file is a program that prints exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19`, without using the `puts` function or the `printf` function. The program ends with a return value of `1`.*|
-

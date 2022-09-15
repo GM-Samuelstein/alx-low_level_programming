@@ -23,6 +23,28 @@ HELLO WORLD
 <li>How does the <code>main</code> function influence the return value of the program.</li>
 </ul>
 
+<h2>Requirements</h2>
+<h3>C</h3>
+<ul>
+  <li>Allowed editors: <code>vi</code>, <code>vim</code>, <code>emacs</code>.</li>
+  <li>All your files will be compiled on Ubuntu 20.04 LTS using <code>gcc</code>, using the options <code>-Wall -Werror -Wextra -pedantic -std=gnu89</code>.</li>
+  <li>All your files should end with a new line.</li>
+  <li>A <code>README.md</code> file at the root of the repo, containing a description of the repository.</li>
+  <li>A <code>README.md</code> file, at the root of the folder of this project, containing a description of the project.</li>
+  <li>There should be no errors and no warnings during compilation.</li>
+  <li>You are not allowed to use <code>system</code>.</li>
+  <li>Your code should use the <code>Betty</code> style. It will be checked using <a href="https://github.com/holbertonschool/Betty/blob/master/betty-style.pl">betty-style.pl</a> and <a href="https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl">betty-doc.pl</a></li>
+</ul>
+
+<h3>Shell Scripts</h3>
+<ul>
+  <li>Allowed editors: <code>vi</code>, <code>vim</code>, <code>emacs</code>.</li>
+  <li>All your scripts will be tested on Ubuntu 20.04 LTS.</li>
+  <li>All your scripts should be exactly two lines long (<code>$ wc -l file</code> should print 2).</li>
+  <li>All your files should end with a new line.</li>
+  <li>The first line of all your files should be exactly <code>#!/bin/bash</code>.</li>
+</ul>
+
 <h2 align="center">Tasks</h2>
 
 |File name|Details|

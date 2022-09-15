@@ -1,4 +1,5 @@
-<h1 align="center">0x04: MORE FUNCTIONS NESTED LOOPS</h1>
+<h1 align="center">0x04.C</h1>
+MORE FUNCTIONS NESTED LOOPS
 
 <h2>Learning Objectives</h2>
 <ul>

@@ -1,0 +1,1 @@
+<h1 align="center">0x1E. C - SEARCH ALGORITHMS.</h1>
